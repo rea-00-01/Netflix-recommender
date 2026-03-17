@@ -39,3 +39,6 @@ netflix_recommender/
 
 
 HOW TO ORGANISE FILES
+
+
+live demo: [text](https://netflix-recommender-9phef7mz47kretmxbyed6e.streamlit.app)
